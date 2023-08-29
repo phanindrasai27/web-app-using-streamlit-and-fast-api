@@ -1,0 +1,6 @@
+pydantic
+flask
+fastapi
+uvicorn
+json
+requests
